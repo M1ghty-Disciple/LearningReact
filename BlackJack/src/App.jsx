@@ -40,7 +40,7 @@ function buildDeck(){
     }
 
     return deck;
-}
+}//build deck function
 
 
 function randomNum(deck){
@@ -60,7 +60,7 @@ function Stay(handleStay){
 }
 
 
-
+//defines what to do on hit
 function hitButton(deck){
 
 }
